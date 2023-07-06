@@ -2,12 +2,12 @@
 {
 "id": 1,
 "itemName": "Agenda",
-  "posts" : "Hahha"
+  "post" : "Hahha"
 
 },
   {
 "id": 2,
 "itemName": "minutes",
-    "posts": "yes"
+    "post": "yes"
   }
 ]
