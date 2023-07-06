@@ -1,6 +1,12 @@
 [
 {
 "id": 1,
-"post":"Agenda"
+"itemName": "Agenda",
+"post": [`The Second half property tax payment `, `must be received in the Treasurer’s Office by Friday`, `March 31, 2023 to avoid penalty`],
+},
+  {
+"id": 2,
+"itemName": "minutes",
+"post": [`The Second half property tax payment `, `must be received in the Treasurer’s Office by Friday`, `March 31, 2023 to avoid penalty`],
 }
 ]
